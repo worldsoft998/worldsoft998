@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @worldsoft998
-- 👀 I’m interested in ...IC design for communications as well as artificial intteligence for money making and finance management...
+- 👀 I’m interested in artificial intteligence for money making and finance management...
 - 📫 How to reach me: visit my site at http://plutus.eu.org
 
 <!---
