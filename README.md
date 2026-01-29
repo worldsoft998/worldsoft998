@@ -2,6 +2,7 @@
 - 👀 I’m interested in IC design & verification,  artificial intteligence for hardware verification and artificial intteligence for healthcare...
 - 📫 How to reach me: visit my site at http://www.ipcoredesign.net/ for IC design & verification and http://ai4healthcare.uk/ for artificial intteligence for healthcare.
 - I am also developing various codes for AI applications for video production (audio to video conversion AI), web scraping,web apps etc in Python.
+- For yet more info about my other expertise see this site: http://1596825.xyz/
 
 <!--- 
 worldsoft998/worldsoft998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
